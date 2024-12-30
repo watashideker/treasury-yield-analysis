@@ -68,9 +68,9 @@ The analysis highlights:
 
 ### Installation
 1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
-   ```
+```
+git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
+```
    
 2.Install necessary R packages:
 ```
