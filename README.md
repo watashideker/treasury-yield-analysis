@@ -46,7 +46,7 @@ The analysis highlights:
 
 ## Repository Structure
 
-.
+`
 ├── data/
 │   ├── treasury_yields.csv      # Processed Treasury yields data
 │   ├── macro_indicators.csv     # Macroeconomic indicators
@@ -59,30 +59,47 @@ The analysis highlights:
 │   ├── tables/                  # Model summary tables
 ├── README.md                    # Project overview and instructions
 ├── LICENSE                      # License for the repository
-Getting Started
-Prerequisites
-Programming Language: R
-Libraries: quantmod, tidyverse, caret, randomForest
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
-Install necessary R packages:
-R
-Copy code
-install.packages(c("quantmod", "tidyverse", "caret", "randomForest"))
-Usage
-Load data using scripts in the data_preprocessing.R.
-Run correlation and regression analysis scripts.
-Visualize results using the figures/ folder.
-Authors
-Swapnil Pant
-Hao Cai
-Satvik Gurjar
-License
+`
+## Getting Started
+### Prerequisites
+- **Programming Language**: R
+- **Libraries**: `quantmod`, `tidyverse`, `caret`, `randomForest`
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
+
+
+   ## Getting Started
+### Prerequisites
+- **Programming Language**: R
+- **Libraries**: `quantmod`, `tidyverse`, `caret`, `randomForest`
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
+   
+2.Install necessary R packages:
+```
+  install.packages(c("quantmod", "tidyverse", "caret", "randomForest"))
+```
+
+## Usage
+1. Load data using scripts in the data_preprocessing.R.
+2. Run correlation and regression analysis scripts.
+3. Visualize results using the figures/ folder.
+
+# Authors
+- Swapnil Pant
+- Hao Cai
+- Satvik Gurjar
+
+# License
 This project is licensed under the MIT License.
 
-Acknowledgments
+# Acknowledgments
 Data sourced from FRED and Yahoo Finance.
 Stevens Institute of Technology for academic guidance.
+
