@@ -60,6 +60,7 @@ The analysis highlights:
 ├── README.md                    # Project overview and instructions
 ├── LICENSE                      # License for the repository
 `
+
 ## Getting Started
 ### Prerequisites
 - **Programming Language**: R
@@ -67,19 +68,9 @@ The analysis highlights:
 
 ### Installation
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
-
-
-   ## Getting Started
-### Prerequisites
-- **Programming Language**: R
-- **Libraries**: `quantmod`, `tidyverse`, `caret`, `randomForest`
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
+   ```
    
 2.Install necessary R packages:
 ```
@@ -91,12 +82,12 @@ The analysis highlights:
 2. Run correlation and regression analysis scripts.
 3. Visualize results using the figures/ folder.
 
-# Authors
+## Authors
 - Swapnil Pant
 - Hao Cai
 - Satvik Gurjar
 
-# License
+## License
 This project is licensed under the MIT License.
 
 # Acknowledgments
