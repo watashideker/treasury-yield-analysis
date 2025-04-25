@@ -58,6 +58,7 @@ The analysis highlights:
 │   ├── figures/                 # Plots and visualizations
 │   ├── tables/                  # Model summary tables
 ├── README.md                    # Project overview and instructions
+├── Report
 ├── LICENSE                      # License for the repository
 `
 
@@ -69,7 +70,7 @@ The analysis highlights:
 ### Installation
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/Treasury-Yield-Analysis.git
+git clone [https://github.com/yourusername/Treasury-Yield-Analysis.git](https://github.com/watashideker/treasury-yield-analysis.git)
 ```
    
 2.Install necessary R packages:
