@@ -44,24 +44,6 @@ The analysis highlights:
 - **Neutral Period (2013–2018)**:
   - Stable economic growth resulted in steady yield increases and weaker relationships with predictors.
 
-## Repository Structure
-
-`
-├── data/
-│   ├── treasury_yields.csv      # Processed Treasury yields data
-│   ├── macro_indicators.csv     # Macroeconomic indicators
-├── scripts/
-│   ├── data_preprocessing.R     # Data cleaning and transformation
-│   ├── correlation_analysis.R   # Correlation matrix generation
-│   ├── regression_models.R      # Regression and decision tree models
-├── results/
-│   ├── figures/                 # Plots and visualizations
-│   ├── tables/                  # Model summary tables
-├── README.md                    # Project overview and instructions
-├── Report
-├── LICENSE                      # License for the repository
-`
-
 ## Getting Started
 ### Prerequisites
 - **Programming Language**: R
